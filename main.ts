@@ -1,4 +1,4 @@
-import blog, { ga, redirects } from "https://deno.land/x/blog@0.3.3/blog.tsx";
+import blog from "https://deno.land/x/blog@0.3.3/blog.tsx";
 
 blog({
   title: "okamog",
@@ -11,7 +11,6 @@ blog({
     { title: "GitHub", url: "https://github.com/okamo1984" },
     { title: "Twitter", url: "https://twitter.com/okamo1984" },
   ],
-
   // middlewares: [
   //   // If you want to set up Google Analytics, paste your GA key here.
   //   ga("UA-XXXXXXXX-X"),
