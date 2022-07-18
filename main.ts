@@ -14,5 +14,5 @@ blog({
   ],
   lang: "ja",
   dateStyle: "long",
-  favicon: "favicon.ico"
+  favicon: "favicon.ico",
 });
