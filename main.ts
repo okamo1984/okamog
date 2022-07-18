@@ -5,7 +5,6 @@ blog({
   author: "okamo",
   avatar: "./okamo.jpg",
   avatarClass: "rounded-full",
-  background: "#f9f9f9",
   ogImage: "./okamo.jpg",
   links: [
     { title: "Email", url: "mailto:okamo1984@gmail.com" },
