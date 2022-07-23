@@ -1,4 +1,5 @@
-import blog from "https://deno.land/x/blog@0.4.1/blog.tsx";
+import blog from "https://deno.land/x/blog@0.4.2/blog.tsx";
+import { unocss } from "./unocss_opt.ts";
 
 blog({
   title: "okamog",
@@ -14,4 +15,5 @@ blog({
   lang: "ja",
   dateStyle: "long",
   favicon: "favicon.ico",
+  unocss,
 });
