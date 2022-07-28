@@ -1,6 +1,7 @@
 ---
 title: LeetCodeのProgramming Skills 1をKotlinでやる - Day 7
 publish_date: 2022-04-09
+tags: [Kotlin, LeetCode]
 ---
 
 ## 1572. Matrix Diagonal Sum

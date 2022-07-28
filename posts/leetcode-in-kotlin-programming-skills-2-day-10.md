@@ -1,6 +1,7 @@
 ---
 title: LeetCodeのProgramming Skills 2をKotlinでやる - Day 10
 publish_date: 2022-04-18
+tags: [Kotlin, LeetCode]
 ---
 
 ## 503. Next Greater Element II

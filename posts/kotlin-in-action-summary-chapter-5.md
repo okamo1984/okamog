@@ -2,6 +2,7 @@
 title: Kotlin in Actionを読んで気になった箇所まとめ - Chapter 5
 publish_date: 2022-04-19
 description: Kotlin In Action Chapter 5を読んで気になったこと
+tags: [Kotlin, 読書]
 ---
 
 - `it.age`よりも`Person::age`のようにmemberを明示的に指定すると可読性が上がる

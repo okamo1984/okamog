@@ -1,6 +1,7 @@
 ---
 title: LeetCodeのProgramming Skills 1をKotlinでやる - Day 5
 publish_date: 2022-04-07
+tags: [Kotlin, LeetCode]
 ---
 
 ## 589. N-ary Tree Preorder Traversal

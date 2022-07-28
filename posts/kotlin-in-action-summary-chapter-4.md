@@ -2,6 +2,7 @@
 title: Kotlin In Action Chapter 4のまとめ
 publish_date: 2022-04-11
 description: Kotlin In Action Chapter 4を読んで気になったこと
+tags: [Kotlin, 読書]
 ---
 
 - 継承による破壊を防ぐために継承できるclassには`open` modifierをつける、デフォルトは継承不可

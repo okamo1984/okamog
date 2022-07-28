@@ -1,6 +1,7 @@
 ---
 title: LeetCodeのProgramming Skills 2をKotlinでやる - Day 9
 publish_date: 2022-04-17
+tags: [Kotlin, LeetCode]
 ---
 
 ## 1630. Arithmetic Subarrays

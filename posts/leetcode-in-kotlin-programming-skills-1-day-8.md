@@ -1,6 +1,7 @@
 ---
 title: LeetCodeのProgramming Skills 1をKotlinでやる - Day 8
 publish_date: 2022-04-10
+tags: [Kotlin, LeetCode]
 ---
 
 ## 1768. Merge Strings Alternately

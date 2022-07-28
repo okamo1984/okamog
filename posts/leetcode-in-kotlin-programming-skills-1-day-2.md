@@ -1,6 +1,7 @@
 ---
 title: LeetCodeのProgramming Skills 1をKotlinでやる - Day 2
 publish_date: 2022-04-04
+tags: [Kotlin, LeetCode]
 ---
 
 ## 191. Number of 1 Bits

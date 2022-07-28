@@ -1,6 +1,7 @@
 ---
 title: LeetCodeのProgramming Skills 1をKotlinでやる - Day 4n
 publish_date: 2022-04-06
+tags: [Kotlin, LeetCode]
 ---
 
 ## 1822. Sign of the Product of an Array

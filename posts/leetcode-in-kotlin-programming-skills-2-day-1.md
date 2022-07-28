@@ -1,6 +1,7 @@
 ---
 title: LeetCodeのProgramming Skills 2をKotlinでやる - Day 1
 publish_date: 2022-04-14
+tags: [Kotlin, LeetCode]
 ---
 
 ## 896. Monotonic Array

@@ -1,6 +1,7 @@
 ---
 title: LeetCodeのProgramming Skills 1をKotlinでやる - Day 1
 publish_date: 2022-04-03
+tags: [Kotlin, LeetCode]
 ---
 
 ## 1523. Count Odd Numbers in an Interval Range

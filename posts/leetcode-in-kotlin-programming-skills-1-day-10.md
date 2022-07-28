@@ -1,6 +1,7 @@
 ---
 title: LeetCodeのProgramming Skills 1をKotlinでやる - Day 10
 publish_date: 2022-04-12
+tags: [Kotlin, LeetCode]
 ---
 
 ## 1290. Convert Binary Number in a Linked List to Integer

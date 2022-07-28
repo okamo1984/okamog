@@ -1,6 +1,7 @@
 ---
 title: Cloud RunでKotlin(Ktor)を実行する
 publish_date: 2022-03-28
+tags: [Kotlin, Ktor, Cloud Run]
 ---
 
 ## OpenJDKとGradleをインストール（またはアップグレード）する

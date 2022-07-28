@@ -1,6 +1,7 @@
 ---
 title: LeetCodeのProgramming Skills 1をKotlinでやる - Day 9
 publish_date: 2022-04-11
+tags: [Kotlin, LeetCode]
 ---
 
 # LeetCodeのProgramming Skills 1をKotlinでやる - Day 9

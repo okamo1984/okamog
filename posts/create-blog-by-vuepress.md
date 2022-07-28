@@ -1,6 +1,7 @@
 ---
 title: VuePressで簡単にブログを作成する
 publish_date: 2022-03-26
+tags: [VuePress]
 ---
 
 ## モチベーション

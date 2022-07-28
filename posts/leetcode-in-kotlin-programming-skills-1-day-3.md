@@ -1,6 +1,7 @@
 ---
 title: LeetCodeのProgramming Skills 1をKotlinでやる - Day 3
 publish_date: 2022-04-05
+tags: [Kotlin, LeetCode]
 ---
 
 ## 976. Largest Perimeter Triangle

@@ -1,6 +1,7 @@
 ---
 title: PostgresでIPアドレスを扱うときはcidrが良さそう
 publish_date: 2022-07-09
+tags: [PostgreSQL, Database]
 ---
 
 PostgresではIPアドレスのデータ型に`inet`と`cidr`の二種類がある。テーブルに登録されているIPアドレスの範囲を検索するのにどちらが性能面で適しているかを簡単に確認してみた。

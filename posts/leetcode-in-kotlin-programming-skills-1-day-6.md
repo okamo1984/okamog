@@ -1,6 +1,7 @@
 ---
 title: LeetCodeのProgramming Skills 1をKotlinでやる - Day 6
 publish_date: 2022-04-08
+tags: [Kotlin, LeetCode]
 ---
 
 ## 1588. Sum of All Odd Length Subarrays

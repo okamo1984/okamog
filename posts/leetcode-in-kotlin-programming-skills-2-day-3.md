@@ -1,6 +1,7 @@
 ---
 title: LeetCodeのProgramming Skills 2をKotlinでやる - Day 3
 publish_date: 2022-04-16
+tags: [Kotlin, LeetCode]
 ---
 
 ## 150. Evaluate Reverse Polish Notation
